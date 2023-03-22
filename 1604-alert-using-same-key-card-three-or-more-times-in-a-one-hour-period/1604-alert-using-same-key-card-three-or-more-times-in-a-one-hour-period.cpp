@@ -48,11 +48,9 @@ public:
         for(int index=0;index<length;++index){
             string start = timeUsed[index];
             string end = getOneHour(start); 
-            // cout<<start<<" "<<end<<" -> ";
             int timesCardUsed = 1;
             for(int current=index+1;current<length;++current){
                 string currentTime = timeUsed[current];
-                // cout<<currentTime<<endl;
                 if(currentTime >= start && currentTime <= end){                
                     timesCardUsed++;
                 }
@@ -62,8 +60,7 @@ public:
                 if(timesCardUsed >= 3){
                     return true;
                 }
-            }     
-            cout<<endl;
+            }
         }
         return false;
     }
