@@ -115,28 +115,15 @@ class Solution
                     }
                 }
             }
-            
-            // for(int i=0;i<numOrders;++i){
-            //     Orders curr(orders[i][0],orders[i][1]);
-            //     if(orders[i][2] == 0){
-            //         buyMaxHeap.push(curr);
-            //     }
-            //     else{
-            //         sellMinHeap.push(curr);
-            //     }
-            // }
             int backlogOrders = 0;
            	// cout<<sellMinHeap.size()<<" "<<buyMaxHeap.size()<<endl;
             while (!sellMinHeap.empty())
             {
-               	cout<<sellMinHeap.top().price<<" "<<sellMinHeap.top().amount<<endl;
                 backlogOrders = ((backlogOrders % MOD) + (sellMinHeap.top().amount % MOD)) % MOD;
                 sellMinHeap.pop();
             }
-            cout<<"--------"<<endl;
             while (!buyMaxHeap.empty())
             {
-               	cout<<buyMaxHeap.top().price<<" "<<buyMaxHeap.top().amount<<endl;
                 backlogOrders = ((backlogOrders % MOD) + (buyMaxHeap.top().amount % MOD)) % MOD;
                 buyMaxHeap.pop();
             }
