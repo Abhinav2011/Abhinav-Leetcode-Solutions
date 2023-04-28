@@ -1,20 +1,23 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int size = nums.size();
-        if(size == 1) return true;
-        if(nums[0] == 0) return false;
-        int currJump = nums[0];
-        
-        for(int i=1;i<size;++i){
-            if(i == size - 1){
+        int arrayLength = nums.size();
+        int currentJump = nums[0];
+        if(arrayLength == 1) {
+            return true;
+        }
+        if(currentJump == 0) {
+            return false;
+        }
+        for(int index=1;index<arrayLength;++index) {
+            if(index == arrayLength - 1) {
                 return true;
             }
-            currJump--;
-            if(nums[i] > currJump){
-                currJump = nums[i];
+            currentJump--;
+            if(nums[index] > currentJump) {
+                currentJump = nums[index];
             }
-            if(currJump == 0){
+            if(currentJump == 0) {
                 return false;
             }
         }
