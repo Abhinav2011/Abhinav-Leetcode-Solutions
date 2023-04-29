@@ -24,10 +24,6 @@ public:
         stack<string> tokenStack;
 
         for(int index=0;index<length;++index) {
-            if(tokenStack.empty()) {
-                tokenStack.push(tokens[index]);
-                continue;
-            }
             if(tokens[index] != "+" && tokens[index] != "-" && tokens[index] != "*" && tokens[index] != "/") {
                 tokenStack.push(tokens[index]);
             }
