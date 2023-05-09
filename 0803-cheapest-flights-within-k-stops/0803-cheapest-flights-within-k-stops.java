@@ -55,17 +55,8 @@ class Solution {
                 if(nei.size() == 0) continue;
                 for(Edge edge : nei) {
                     if(currentFlight.cost + edge.cost < priceTracker[edge.flight] && currentFlight.stops <= k) {
-                        if(currentFlight.stops == k) {
-                            if(edge.flight == dst) {
-                                priceTracker[edge.flight] = currentFlight.cost + edge.cost;
-                                flightQueue.offer(new Node(currentFlight.stops + 1, edge.flight, priceTracker[edge.flight]));
-                            }
-                        }
-                        else {
-                            priceTracker[edge.flight] = currentFlight.cost + edge.cost;
-                            flightQueue.offer(new Node(currentFlight.stops + 1, edge.flight, priceTracker[edge.flight]));
-                        }
-                        
+                        priceTracker[edge.flight] = currentFlight.cost + edge.cost;
+                        flightQueue.offer(new Node(currentFlight.stops + 1, edge.flight, priceTracker[edge.flight]));
                     }
                 }   
             }
