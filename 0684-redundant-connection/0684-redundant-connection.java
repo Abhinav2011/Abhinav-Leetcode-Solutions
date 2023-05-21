@@ -3,7 +3,7 @@ class Solution {
         if(parent[x] == x) {
             return parent[x];
         } 
-        return find(parent[x], parent);
+        return parent[x] = find(parent[x], parent);
     }
 
     public int[] findRedundantConnection(int[][] edges) {
