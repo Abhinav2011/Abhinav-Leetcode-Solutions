@@ -26,25 +26,17 @@ class Solution {
             return new int[]{};
         }
         int[] order = new int[numCourses];
-        boolean[] visited = new boolean[numCourses];
-        for(int index=0;index<numCourses;++index) {
-            visited[index] = false;
-        }
         int currIndex = 0;
         while(!q.isEmpty()) {
             int size = q.size();
             for(int index=0;index<size;++index) {
                 int node = q.poll();
-                visited[node] = true;
                 order[currIndex] = node;
                 currIndex++;
                 List<Integer> nei = graph.getOrDefault(node, new ArrayList<>());
                 System.out.println(nei);
                 for(int i : nei) {
                     System.out.println(node + "->" + i);
-                    if(visited[i] == true) {
-                        return new int[]{};
-                    }
                     indegree[i]--;
                     if(indegree[i] == 0) {
                         q.add(i);
