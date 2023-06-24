@@ -22,7 +22,7 @@ class Solution {
 
         int[] distance = new int[n + 1];
         Arrays.fill(distance, Integer.MAX_VALUE);
-        PriorityQueue<Node> q = new PriorityQueue<>((Node n1, Node n2) -> Integer.compare(n2.time, n1.time));
+        PriorityQueue<Node> q = new PriorityQueue<>((Node n1, Node n2) -> Integer.compare(n1.time, n2.time));
         q.add(new Node(k, 0));
         distance[k] = 0;
         while(!q.isEmpty()) {
