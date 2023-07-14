@@ -48,7 +48,6 @@ class Solution {
 
                     if(isSafe(grid.length, grid[0].length, new_x, new_y)) {
                         int newDistance = Math.max(curr.time, grid[new_x][new_y]);
-                        // System.out.println(grid[curr.x][curr.y] + "->" + newDistance);
                         if(newDistance < distance[new_x][new_y]) {
                             q.add(new Node(new_x,new_y,newDistance));
                             distance[new_x][new_y] = newDistance;
