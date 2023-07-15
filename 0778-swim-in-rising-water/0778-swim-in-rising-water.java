@@ -1,5 +1,5 @@
 class Solution {
-     int[] dx = {0,1,0,-1};
+    int[] dx = {0,1,0,-1};
      int[] dy = {-1,0,1,0};
     class Node {
         public int x;
@@ -11,16 +11,6 @@ class Solution {
             this.y = y;
             this.time = time;
         }
-
-        @Override
-        public boolean equals(Object obj) {
-            return super.equals(obj);
-        }
-
-        @Override
-        public int hashCode() {
-            return super.hashCode();
-        }
     }
 
     public boolean isSafe(int row,int col,int i, int j) {
@@ -28,35 +18,38 @@ class Solution {
     }
 
     public int swimInWater(int[][] grid) {
-        Queue<Node> q = new LinkedList<>();
-        q.add(new Node(0,0,grid[0][0]));
-        int[][] distance = new int[grid.length][grid[0].length];
-        for(int i=0;i<grid.length;++i) {
-            for(int j=0;j<grid[0].length;++j) {
-                distance[i][j] = Integer.MAX_VALUE;
+
+        PriorityQueue<Node> pq = new PriorityQueue<>((Node o1, Node o2) -> Integer.compare(o1.time,o2.time));
+        pq.add(new Node(0,0,grid[0][0]));
+        int row = grid.length;
+        int col = grid[0].length;
+        boolean[][] vis = new boolean[row][col];
+        for(int i=0;i<row;++i) {
+            for(int j=0;j<col;++j) {
+                vis[i][j] = false;
             }
         }
-        distance[0][0] = grid[0][0];
-        while(!q.isEmpty()) {
-            int size = q.size();
+        vis[0][0] = true;
+        int result = Integer.MIN_VALUE;
+        while(!pq.isEmpty()) {
+            int size = pq.size();
             while(size-- > 0) {
-                Node curr = q.poll();
-
+                Node curr = pq.poll();
+                result = Math.max(curr.time, result);
+                if(curr.x == grid.length - 1 && curr.y == grid[0].length - 1) {
+                    return result;
+                }
                 for(int k=0;k<4;++k) {
                     int new_x = dx[k] + curr.x;
                     int new_y = dy[k] + curr.y;
 
-                    if(isSafe(grid.length, grid[0].length, new_x, new_y)) {
-                        int newDistance = Math.max(curr.time, grid[new_x][new_y]);
-                        if(newDistance < distance[new_x][new_y]) {
-                            q.add(new Node(new_x,new_y,newDistance));
-                            distance[new_x][new_y] = newDistance;
-                        }
+                    if(isSafe(grid.length, grid[0].length, new_x, new_y) && !vis[new_x][new_y]) {
+                        pq.add(new Node(new_x,new_y,grid[new_x][new_y]));
+                        vis[new_x][new_y] = true;
                     }
                 }
             }
         }
-        return distance[grid.length - 1][grid[0].length - 1];
+        return result;
     }
 }
-
