@@ -69,9 +69,6 @@ class Solution {
                 }
             }
         }
-        for(int c=0;c<disjointSet.getParent().length;++c) {
-            System.out.println(disjointSet.getParent()[c]);
-        }
         int largestArea = 0;
         for(int i=0;i<row;++i) {
             for (int j = 0; j < col; ++j) {
