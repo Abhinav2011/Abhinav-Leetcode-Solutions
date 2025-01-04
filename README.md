@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1028-interval-list-intersections](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
+| [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
+| [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,10 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 <!---LeetCode Topics End-->
