@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1028-interval-list-intersections](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1028-interval-list-intersections) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
@@ -104,4 +105,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
+## Math
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+## Binary Search
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+## Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
