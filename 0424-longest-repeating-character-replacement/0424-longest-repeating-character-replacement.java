@@ -1,22 +1,33 @@
 class Solution {
+    int getMax(int[] count) {
+        return Arrays.stream(count).max().getAsInt();
+    }
     public int characterReplacement(String s, int k) {
-        int[] charMap = new int[26];
-        Arrays.fill(charMap, 0);
+        int len = s.length();
         int left = 0;
-        int maxSubstringPossible = 0;
-        int maxCount = 0;
-        for(int right=0;right<s.length();++right) {
-            char c = s.charAt(right);
-            charMap[c - 'A']++;
-            maxCount = Math.max(maxCount, charMap[c - 'A']);
+        int[] count = new int[26];
+        Arrays.fill(count, 0);
+        int maxLength = 0;
+        
+        for(int right=0;right<len;++right) {
+            count[s.charAt(right) - 'A']++;
+            int maxCharVal = getMax(count);
+            int distance = right - left + 1;
             
-            while((right - left + 1) - maxCount > k) {
-                charMap[s.charAt(left) - 'A']--;
-                left++;
+            if((distance - maxCharVal) > k) {
+                while(distance - maxCharVal > k) {
+                    count[s.charAt(left) - 'A']--;
+                    left++;
+                    maxCharVal = getMax(count);
+                    distance = right - left + 1;
+                }
             }
-            
-            maxSubstringPossible = Math.max(maxSubstringPossible, right - left + 1);
+            else {
+                maxLength = Math.max(maxLength, right - left + 1);
+            }
         }
-        return maxSubstringPossible;
+        
+        return maxLength;
+        
     }
 }
