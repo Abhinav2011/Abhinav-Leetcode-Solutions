@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## String
 |  |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Randomized
 |  |
