@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -104,10 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -138,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
