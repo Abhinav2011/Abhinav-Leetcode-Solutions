@@ -14,18 +14,18 @@
  * }
  */
 class Solution {
-    public boolean helper(TreeNode root,long maximum,long minimum) {
-          if(root == null) {
-              return true;
-          }
+    private boolean performSearch(TreeNode root, long leftMax, long rightMax) {
+        if(root == null) {
+            return true;
+        }
+        if(root.val <= leftMax || root.val >= rightMax) {
+            return false;
+        }
 
-          if(root.val >= maximum || root.val <= minimum) {
-              return false;
-          }
-
-          return helper(root.left, root.val, minimum) && helper(root.right, maximum, root.val);
-      }
-    public boolean isValidBST(TreeNode root) {
-        return helper(root, Long.MAX_VALUE, Long.MIN_VALUE);
+        return performSearch(root.left, leftMax, root.val) && performSearch(root.right, root.val, rightMax);
     }
+    public boolean isValidBST(TreeNode root) {
+        return performSearch(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
 }
