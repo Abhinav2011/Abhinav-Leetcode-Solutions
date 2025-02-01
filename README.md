@@ -30,10 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## String
 |  |
@@ -113,11 +116,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
