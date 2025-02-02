@@ -30,16 +30,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -170,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
