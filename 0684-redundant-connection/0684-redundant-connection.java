@@ -1,32 +1,61 @@
-class Solution {
-    public int find(int x, int[] parent) {
-        if(parent[x] == x) {
-            return parent[x];
-        } 
-        return parent[x] = find(parent[x], parent);
+class DSU {
+    public int[] parent;
+    public int[] size;
+
+    public DSU(int n) {
+        this.parent = new int[n + 1];
+        this.size = new int[n + 1];
+        for(int i=1;i<=n;++i) {
+            parent[i] = i;
+            size[i] = 1;
+        }
     }
 
-    public int[] findRedundantConnection(int[][] edges) {
-        int nodes = edges.length;
-        int[] parent = new int[nodes + 1];
+    public int find(int value) {
+        if(parent[value] != value) {
+            System.out.println("Value is - " + value + " and parent value is - " + parent[value]);
+            parent[value] = find(parent[value]);
+        }
+        return parent[value];
+    }
 
-        for(int i=1;i<=nodes;++i) {
-            parent[i] = i;
+    public void mergeBySize(int x, int y) {
+        int parentX = find(x);
+        int parentY = find(y);
+
+        if(parentX == parentY) {
+            return;
         }
-        int[] redundantEdge = new int[2];
-        for(int i=0;i<nodes;++i) {
-            int u = find(edges[i][0], parent);
-            int v = find(edges[i][1], parent);
-            System.out.println(u + " " + v);
-            if(u != v) {
-                parent[v] = u;
-            }
-            else{
-                redundantEdge[0] = edges[i][0];
-                redundantEdge[1] = edges[i][1]; 
-                break;
-            }
+
+        if(size[parentX] < size[parentY]) {
+            parent[parentX] = parentY;
+            size[parentY] += size[parentX];
         }
-        return redundantEdge;
+        else {
+            parent[parentY] = parentX;
+            size[parentX] += size[parentY];
+        }
+    }
+
+
+}
+class Solution {
+    public int[] findRedundantConnection(int[][] edges) {
+        int n = edges.length;
+        DSU disjointSet = new DSU(n);
+        
+        for(int[] edge : edges) {
+            int from = edge[0];
+            int to = edge[1];
+            
+            int parentX = disjointSet.find(from);
+            int parentY = disjointSet.find(to);
+            
+            if(parentX == parentY) {
+                return new int[]{from, to};
+            }
+            disjointSet.mergeBySize(from, to);
+        }
+        return null;
     }
 }
