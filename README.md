@@ -31,18 +31,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Divide and Conquer
 |  |
 | ------- |
