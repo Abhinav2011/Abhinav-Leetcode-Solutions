@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1028-interval-list-intersections) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Hash Table
