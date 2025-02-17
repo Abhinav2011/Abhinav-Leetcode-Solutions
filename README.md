@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0833-bus-routes](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## String
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Sliding Window
 |  |
