@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -175,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Math
@@ -247,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
