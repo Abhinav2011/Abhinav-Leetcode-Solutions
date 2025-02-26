@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
