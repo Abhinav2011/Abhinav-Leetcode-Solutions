@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
