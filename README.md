@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -46,11 +48,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Array
 |  |
 | ------- |
