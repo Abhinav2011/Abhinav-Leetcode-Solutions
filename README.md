@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Greedy
 |  |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0833-bus-routes](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0833-bus-routes) |
+| [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
@@ -289,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
