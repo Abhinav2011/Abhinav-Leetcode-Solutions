@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Two Pointers
 |  |
