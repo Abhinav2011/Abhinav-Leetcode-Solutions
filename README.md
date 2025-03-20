@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1028-interval-list-intersections](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1028-interval-list-intersections) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Math
 |  |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search Tree
 |  |
 | ------- |
