@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Monotonic Stack
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Math
