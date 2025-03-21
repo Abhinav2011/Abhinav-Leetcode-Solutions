@@ -50,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## String
@@ -180,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Sliding Window
 |  |
