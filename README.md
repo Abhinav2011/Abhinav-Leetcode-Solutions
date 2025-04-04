@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [2603-reward-top-k-students](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2603-reward-top-k-students) |
 ## Monotonic Stack
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-bus-routes](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Linked List
 |  |
 | ------- |
