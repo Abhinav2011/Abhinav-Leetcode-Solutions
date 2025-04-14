@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
