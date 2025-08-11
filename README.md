@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1813-maximum-erasure-value](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1813-maximum-erasure-value](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Tree
 |  |
 | ------- |
