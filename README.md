@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1002-maximum-width-ramp](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1028-interval-list-intersections](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1028-interval-list-intersections) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0778-reorganize-string](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1397-search-suggestions-system) |
