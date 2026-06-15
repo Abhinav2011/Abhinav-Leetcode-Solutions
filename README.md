@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-best-team-with-no-conflicts](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1748-best-team-with-no-conflicts) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1002-maximum-width-ramp](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1002-maximum-width-ramp](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Abhinav2011/Abhinav-Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
